@@ -1,6 +1,7 @@
 import { Component, Input } from '@angular/core';
 import { Empleado } from '../../../models/Empleado';
 
+
 @Component({
   selector: 'app-count-empleados',
   templateUrl: './count-empleados.component.html',
